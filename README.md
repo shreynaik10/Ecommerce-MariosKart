@@ -27,11 +27,11 @@ Use of Recycler Views to display products and past orders, improving performance
 
 
 ### Products Page 
-All Products
+
 <img width="350" alt="AllProductsPage" src="https://user-images.githubusercontent.com/33474725/211417209-19c4677e-3f44-42f8-bcbf-7d2bf107e6b9.png">
-All Consoles
+
 <img width="349" alt="AllConsoles" src="https://user-images.githubusercontent.com/33474725/211417148-671338fe-55e3-4776-9b46-ab466f14f6a4.png">
-All Games
+
 <img width="350" alt="AllGames" src="https://user-images.githubusercontent.com/33474725/211417176-5d11d719-5c5f-48ee-83fd-18379d150188.png">
 
 ### Product Description
