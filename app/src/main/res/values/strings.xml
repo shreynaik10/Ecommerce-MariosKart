@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="product_type_console">Console</string>
+    <string name="product_type_game">Game</string>
+    <string name="product_type_accessories">Accessories</string>
+    <string-array name="quantity_string_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5(Max)</item>
+    </string-array>
+</resources>

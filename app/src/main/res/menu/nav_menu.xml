@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_consoles"
+        android:icon="@drawable/ic_baseline_laptop_24"
+        android:title="Consoles" />
+
+    <item
+        android:id="@+id/nav_games"
+        android:icon="@drawable/ic_baseline_console"
+        android:title="Games" />
+
+    <item
+        android:id="@+id/nav_accessories"
+        android:icon="@drawable/ic_baseline_headset_mic_24"
+        android:title="Accessories" />
+
+    <item android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_baseline_person_24"
+                android:title="Profile" />
+            <item android:id="@+id/nav_orders"
+                android:icon="@drawable/ic_baseline_shopping_basket_24"
+                android:title="Orders" />
+            <item android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_logout_24"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+    <item android:title="Communities">
+        <menu>
+            <item android:id="@+id/nav_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share" />
+            <item android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_baseline_rate_review_24"
+                android:title="Rate us" />
+        </menu>
+    </item>
+</menu>
